@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Camels",
+		"description": "Camels Behavior Pack",
+		"uuid": "c8776a70-0ba5-59f2-a1c4-9f5d2106f64d",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Benjamin-Leon Reinoso-Langlois"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.1.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "3d279364-d913-dc8a-cfa6-6cd4577d344d",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "118e102e-f61d-bc0b-5b98-cdb891b71c8c",
+			"version": [1, 0, 0]
+		}
+	]
+}

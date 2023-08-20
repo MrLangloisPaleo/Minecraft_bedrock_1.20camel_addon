@@ -1,0 +1,39 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:spawn_rules": {
+    "description": {
+      "identifier": "minecraft:camel",
+      "population_control": "animal"
+    },
+    "conditions": [
+      {
+        "minecraft:spawns_on_surface": {},
+        "minecraft:spawns_on_block_filter": [
+          "minecraft:sand",
+          "minecraft:grass",
+          "minecraft:dirt"
+        ],
+        "minecraft:brightness_filter": {
+          "min": 8,
+          "max": 15,
+          "adjust_for_weather": false
+        },
+        "minecraft:weight": {
+          "default": 20
+        },
+        "minecraft:herd": {
+          "min_size": 10,
+          "max_size": 15
+        },
+        
+        "minecraft:biome_filter":{
+					"any_of": [
+						{"test": "has_biome_tag", "operator": "==", "value": "desert"},
+						{"test": "has_biome_tag", "operator": "==", "value": "savanna"},
+						{"test": "has_biome_tag", "operator": "==", "value": "savanna_plateau"}
+					]
+				}
+      }
+    ]
+  }
+}

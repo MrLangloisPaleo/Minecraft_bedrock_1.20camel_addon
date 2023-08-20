@@ -1,0 +1,11 @@
+entity.ben:bactrian.name=Chameau de Bactriane
+item.spawn_egg.entity.ben:bactrian.name=Œuf de Chameau de Bactriane
+action.hint.exit.ben:bactrian=Appuyez sur :_input_key.sneak: pour descendre
+
+entity.minecraft:camel.name=Dromadaire
+item.spawn_egg.entity.minecraft:camel.name=Œuf de Dromadaire
+action.hint.exit.minecraft:camel=Appuyez sur :_input_key.sneak: pour descendre
+
+entity.ben:hybridcamel.name=Chameau Hybride
+item.spawn_egg.entity.ben:hybridcamel.name=Œuf de Chameau Hybride
+action.hint.exit.ben:hybridcamel=Appuyez sur :_input_key.sneak: pour descendre

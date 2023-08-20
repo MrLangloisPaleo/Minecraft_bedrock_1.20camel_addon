@@ -1,0 +1,14 @@
+
+
+Hi, Benjamin-Leon frozen in  time here,
+thank you for downloading my addon!!
+
+
+	To fully install the addon, you'll need to copy-paste or drag-and-drop the file named "Camel" that you can see in "Resource" INTO your main game's file called "resource_packs"
+
+	Do the same thing to the file named "Camel" that you can see in "Behavior" INTO your main game's file called "behavior_packs"
+	
+	Afterwards, well, enjoy :D !!!! (if it works :I)
+
+
+To acess your game's files on PC, try this file path to reach them: C:\Users\*your user*\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang

@@ -1,0 +1,12 @@
+{
+	"resource_pack_name": "Camels",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"camel_raw": {
+			"textures": "textures/items/camel_raw"
+		},
+		"camel_cooked": {
+			"textures": "textures/items/camel_cooked"
+		}
+	}
+}

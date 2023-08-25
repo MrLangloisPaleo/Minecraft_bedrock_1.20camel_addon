@@ -9,3 +9,7 @@ action.hint.exit.minecraft:camel=Press SHIFT to dismount
 entity.ben:hybridcamel.name=Hybrid Camel
 item.spawn_egg.entity.ben:hybridcamel.name=Spawn Hybrid Camel
 action.hint.exit.ben:hybridcamel=Press SHIFT to dismount
+
+
+item.ben:camel_raw=Raw Camel Meat
+item.ben:camel_cooked=Cooked Camel Meat

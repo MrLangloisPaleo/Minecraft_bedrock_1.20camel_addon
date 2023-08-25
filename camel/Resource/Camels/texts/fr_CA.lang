@@ -9,3 +9,7 @@ action.hint.exit.minecraft:camel=Appuyez sur :_input_key.sneak: pour descendre
 entity.ben:hybridcamel.name=Chameau Hybride
 item.spawn_egg.entity.ben:hybridcamel.name=Œuf de Chameau Hybride
 action.hint.exit.ben:hybridcamel=Appuyez sur :_input_key.sneak: pour descendre
+
+
+item.ben:camel_raw=Viande de Chameau crue
+item.ben:camel_cooked=Viande de Chameau cuite
